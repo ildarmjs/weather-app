@@ -17,7 +17,7 @@
 - JavaScript
   - Axios
 - Next JS
-  -React
+  - React
 
 <br />
 
