@@ -2,10 +2,15 @@
 
 ### [Пример реализации](https://weather-app-kappa-lovat.vercel.app/)
 
-
 ## Приложение для просмотра погоды
+
 <br/>
 
+### Скрин
+
+![Image](https://github.com/ildarmjs/weather-app/raw/main/screenshot/weather-app.jpg)
+
+<br/>
 
 ## Стек
 
@@ -32,6 +37,5 @@ $ npm run dev
 # or
 yarn dev
 ```
+
 Откройте [http://localhost:3000](http://localhost:3000) в браузере, чтобы увидеть результат.
-
-
